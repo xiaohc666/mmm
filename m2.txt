@@ -27,13 +27,13 @@
 
 
 "sites":[
-{"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/xiaohc666/mmm/master/xpath/duboku.json"},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Buka","name":"真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Imaple","name":"枫林网(SP)","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Juhi","name":"剧嗨(SP)","type":3,"api":"csp_Juhi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jumi","name":"剧迷(SP)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/xiaohc666/mmm/master/xpath/duboku.json"},
 
 
 ## 03.🥒(非官方)小黄瓜大佬 套Biubiu+LiteApple规则
