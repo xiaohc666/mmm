@@ -23,7 +23,7 @@
   "lianjiehou": "\"",
   
   "sousuoqian": "/search.php?searchword=",
-  "sousuohou": "",
+  "sousuohou": "&limit=5",
   "sousuohouzhui": "/movie/",
   "ssmoshi": "1",
   "sousuoshifouercijiequ": "0",

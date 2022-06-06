@@ -19,7 +19,7 @@
   "lianjiehou": "\"",
   
   "sousuoqian": "/index.php?m=vod-search&wd=",
-  "sousuohou": "",
+  "sousuohou": "&limit=5",
   "sousuohouzhui": "/vodhtml/",
   "ssmoshi": "1",
   "sousuoshifouercijiequ": "0",
