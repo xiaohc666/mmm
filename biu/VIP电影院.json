@@ -17,7 +17,8 @@
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-  "sousuohou": "&limit=500",
+  //"sousuohou": "&limit=500",
+  "sousuohou": "&limit=5",
   "sousuohouzhui": "/index.php/vod/detail/id/", //搜索页影片跳转详情页的中间标识链接部分
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
