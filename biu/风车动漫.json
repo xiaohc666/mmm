@@ -21,8 +21,7 @@
   "lianjiehou": "\"",
   
   "sousuoqian": "/s_all?ex=1&kw=",
-  //"sousuohou": "&limit=500",
-  "sousuohou": "&limit=5",
+  "sousuohou": "&limit=500",
   "sousuohouzhui": "/view/",
   "ssmoshi": "1",
   "sousuoshifouercijiequ": "1",

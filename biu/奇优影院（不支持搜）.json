@@ -18,7 +18,7 @@
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
   "sousuoqian": "/search.php?searchword=",
-  "sousuohou": "&limit=5;post;utf-8",
+  "sousuohou": "&limit=500;post;utf-8",
   "sousuohouzhui": "/view/",
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
